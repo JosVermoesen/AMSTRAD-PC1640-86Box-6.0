@@ -9,18 +9,16 @@ PCI bus. If you need a configuration manager for 86Box, use the [86Box Manager](
 
 ## Our focus on the Amstrad PC1640
 
-The Amstrad PC1640 was a personal computer released by Amstrad in the late 1980s. Our focus is on providing accurate emulation of this system using 86Box, allowing users to run software and operating systems designed for the PC1640.
+The PC1640 was a personal computer released by Amstrad in the late 1980s. Our focus is on providing accurate emulation of this system using 86Box, allowing users to run software and operating systems designed for the PC1640.
 
 ## Getting Started
 
-To get started with emulating the Amstrad PC1640 using 86Box, follow these steps:
+To follow our emulation the Amstrad PC1640 using 86Box, follow these steps:
 
-1. Download and install [86Box](https://github.com/86Box/86Box).
-2. Download and install [86Box Manager](https://github.com/86Box/86BoxManager) if you want an easier way to manage your 86Box configurations.
-3. Launch 86Box and create a new virtual machine configuration for the Amstrad PC1640.
-4. Configure the virtual machine with the appropriate hardware settings for the PC1640.
-5. Install the desired operating system and software on the emulated PC1640.
-6. Start using your emulated Amstrad PC1640 within 86Box.
+1. Git Clone our project [AMSTRAD-PC1640](https://github.com/JosVermoesen/AMSTRAD-PC1640-86Box-6.0.git).
+2. Start 86Box.exe and configure the virtual machine with the appropriate hardware settings for the PC1640.
+3. For the settings follow the translated instructions from Thomas Bär (ReadmeFirst.pdf, LiesMichZuerst.pdf, LeesMijEerst.pdf, Lisez-Moi.pdf)
+4. You do not have to create a new hard disk, use the existing one in hdd folder if you want to follow our experiments with Locomotive BASIC2 on GEM.
 
 ## Additional Resources
 
